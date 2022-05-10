@@ -8,4 +8,5 @@ Utilizamos a database com informações sobre os personagens da saga Star Wars, 
 
 ## Adicional
 Tal minicurso foi transmitido e carregado no canal do YouTube do Diretório Acadêmico do curso de Economia da FURG, e pode ser acessado através do link abaixo:
+
 [Minicurso de R](https://www.youtube.com/watch?v=YIuqABq0zfo&t=354s&ab_channel=Diret%C3%B3rioAcademicodeEconomiaFURG)
